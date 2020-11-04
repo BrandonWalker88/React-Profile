@@ -5,6 +5,7 @@ import NavBar from "./components/nav/NavBar";
 import AboutMe from "./pages/AboutMe/AboutMe";
 import Portfolio from "./pages/Portfolio/Portfolio";
 import Contact from "./pages/Contact/Contact";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
               render={(props) => <Contact PropName={"some value"} />}
             /> */}
           </Switch>
+          <Footer />
         </div>
       </Router>
     </div>

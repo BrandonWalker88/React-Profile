@@ -16,7 +16,8 @@ const AboutMe = () => {
         community. The dream is to work for Amazon on there prime air project. I
         currently work as an AEMT for Grady EMS. I enjoy serving the community
         of Atlanta and am looking forward to a rewarding job in a field that can
-        impact lives in a positive way.
+        impact lives in a positive way. I am proficient in: HTML, CSS,
+        JavaScript, Node, Mongo DB, MySQL, Bootstrap, and React.
       </p>
     </div>
   );
